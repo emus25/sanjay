@@ -1,0 +1,140 @@
+{
+  "version": 2,
+  "exportedAt": "2026-05-19T01:40:08.880Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Sanjay ",
+      "lname": "Thapa",
+      "pronouns": null,
+      "name": null,
+      "title": null,
+      "biz": "Moment Story Media",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/VkZVCjcb/Whats-App-Image-2026-05-07-at-19-32-50-(2).jpg",
+      "shareImg": "https://i.postimg.cc/VkZVCjcb/Whats-App-Image-2026-05-07-at-19-32-50-(2).jpg",
+      "bookMarkImg": "https://i.postimg.cc/VkZVCjcb/Whats-App-Image-2026-05-07-at-19-32-50-(2).jpg",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#12247b",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#12247b",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#E5E7EB",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "call",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "+447930630136",
+        "label": "Your Phone Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "sanjaythapa@momentstorymedia.co.uk",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447930630136",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.momentstorymedia.co.uk/",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [
+      {
+        "name": "instagram",
+        "placeholder": "https://instagram.com/UserName",
+        "value": "https://www.instagram.com/momentstorymediauk",
+        "color": "#405de6",
+        "label": "Your Instagram URL"
+      },
+      {
+        "name": "TikTok",
+        "icon": "tiktok",
+        "placeholder": "https://tiktok.com/UserName",
+        "value": "https://www.tiktok.com/@momentstorymediauk",
+        "color": "#fff",
+        "label": "Your TikTok URL"
+      },
+      {
+        "name": "linkedin",
+        "placeholder": "https://linkedin.com/in/UserName",
+        "value": "https://www.linkedin.com/company/momentstorymedia/",
+        "color": "#0077b5",
+        "label": "Your Linkedin URL"
+      }
+    ],
+    "featured": [
+      {
+        "title": "",
+        "content": []
+      }
+    ]
+  }
+}
